@@ -8,6 +8,6 @@ En este conjunto de datos, se han combinado datos de diferentes tipos de aliment
 Se extraen los datos desde https://www.kaggle.com/ por medio de la API y del sitio https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico
 
 
-Se creado una Base de datos SQL en Google Cloud Platform 
+Se creado una Base de datos SQL en Google Cloud Platform https://cloud.google.com
 
 
