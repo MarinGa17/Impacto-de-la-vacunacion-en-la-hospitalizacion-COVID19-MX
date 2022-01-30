@@ -41,9 +41,29 @@ Se utiliza un RandomForestClassifier ya que por las variables utilizadas nos per
 
 Donde nuestra variable Y a predecir sera el porcentaje de ocupación hospitalaria diaria
 
+y nuestros clases a predecir seran:
+
+- 0 - Nivel de ocupación hospitalaria baja
+- 1 - Nivel de ocupación hospitalaria media
+- 2 - Nivel de ocupación hospitalaria alta
+- 3 - Nivel de ocupación hospitalaria muy alta
+
 <h6> Interpretación de resultados<h>
- 
   
+  Interpretación de accuracy y matriz de confusion
+
+Validamos la eficacia del modelo
+
+Se obtiene un 0.96 % general
+
+- el 96 % de nuestros datos fueron estimados de acuerdo a lo esperado
+
+- Solo el 2.11 % de nuestros datos obtuvieron un resultado (Faldo positivo) no tuvierón el nivel de hospitalización esperado por el modelo
+
+- Y solo el 1.89 % de nuestros datos obtuvieron un resultado mayor a lo esperado por el modelo
+ 
+  ![matriz](https://user-images.githubusercontent.com/98288000/151719683-74ab85eb-f4c0-4c0c-b5ac-6ea160a93020.PNG)
+
 
 
 # hallazgos
