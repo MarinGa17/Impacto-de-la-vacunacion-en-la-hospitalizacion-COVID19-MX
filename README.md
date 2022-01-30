@@ -28,7 +28,7 @@ En este analisis, se han combinado datos sobre diferentes factores que impactan 
 # Base de datos
 los datos son almacenados en una base SQL creada en  Google Cloud Platform https://cloud.google.com para su posterior consulta para el analisis
 
-![instancia](https://user-images.githubusercontent.com/98288000/151711592-07272d69-0609-4238-89d4-57383036f0ac.PNG)
+![instancia](https://user-images.githubusercontent.com/98288000/151711592-07272d69-0609-4238-89d4-57383036f0ac.PNG = 250x250)
 
 
 # Modelo utilizado - RandomForestClassifier
