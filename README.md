@@ -1,9 +1,16 @@
 # Impacto de la vacunacion en la hospitalizacion COVID19-México
- 
-![instancia](https://user-images.githubusercontent.com/98288000/151711592-07272d69-0609-4238-89d4-57383036f0ac.PNG)
 
-En este analisis, se han combinado datos sobre diferentes factores que ipactan el porcentaje de hospitalizacion por COVID-19 en México, como diabetes, asma, obesidad, epoc y otras conmorbilidades que afectan , y los casos globales de COVID-19 en todo el mundo para aprender más sobre cómo un estilo de alimentación saludable que podría ayudar a combatir el COVID-19. Y a partir del conjunto de datos, podemos recopilar información sobre los patrones de dieta de países con una tasa de infección y muertes más baja y una tasa de recuperación más alta en el COVID-19, y ajustar nuestra propia dieta para tener una mejor respuesta o futuros virus.
-Objetivo(hipotesis)
+
+En este analisis, se han combinado datos sobre diferentes factores que ipactan el porcentaje de hospitalizacion por COVID-19 en México, como diabetes, asma, obesidad, epoc y otras conmorbilidades, el numero de casos diarios registrados y el avance diario de vacunación. A partir del conjunto de datos, podemos recopilar información sobre los patrones que siguen los dias con una tasa  de hopitalización alta y una tasa de recuperación más alta en el COVID-19, y ajustar nuestra propia dieta para tener una mejor respuesta o futuros virus.
+
+# Hipotesis
+- Impacto que tienen los casos con conmorbilidades en la ocupación hospitalaria
+- La vacunación contra COVID-19 a apoya en la reducción de casos diarios
+- La vacunación ha apoyado en la reducción del porcentaje de ocupación hospitalaria
+
+
+# Objetiv
+-Predecir el porcentaje de hospitalización diaria por COVID-19
 
 
 
@@ -13,9 +20,14 @@ Se extraen los datos desde https://www.kaggle.com/ por medio de la API y del sit
 Base de datos
 Se creado una Base de datos SQL en Google Cloud Platform https://cloud.google.com
 
-
-Modelo utilizado
-
+![instancia](https://user-images.githubusercontent.com/98288000/151711592-07272d69-0609-4238-89d4-57383036f0ac.PNG)
 
 
-hallazgos
+# Modelo utilizado
+
+
+
+
+
+
+# hallazgos
