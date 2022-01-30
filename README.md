@@ -33,7 +33,10 @@ los datos son almacenados en una base SQL creada en  Google Cloud Platform https
 
 # Modelo utilizado
 
+Se realiza una exploración de los datos existentes
 
+
+![Set de datos](https://user-images.githubusercontent.com/98288000/151714381-3406d188-f1f1-47fe-9c00-a5186b241421.PNG)
 
 
 
