@@ -32,11 +32,16 @@ los datos son almacenados en una base SQL creada en  Google Cloud Platform https
 
 
 # Modelo utilizado
+Se construye dataset por consulta a base de datos SQL
 
 Se realiza una exploración de los datos existentes
 
 
 ![Set de datos](https://user-images.githubusercontent.com/98288000/151714381-3406d188-f1f1-47fe-9c00-a5186b241421.PNG)
+
+Se trabaja con las variables categoricas y se realiza transformación y limpieza de datos
+los datos son agrupados por dia para permitirno detectar los patrones entre ocupacion hospitalaria el tipo de casos diarios
+![set de dots](https://user-images.githubusercontent.com/98288000/151714862-e001330c-42a6-49eb-aacb-ee910f81779e.PNG)
 
 
 <h5> Random forest classificar <h>
