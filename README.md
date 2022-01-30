@@ -50,7 +50,7 @@ y nuestros clases a predecir seran:
 
 Interpretación de resultados
   
-  Interpretación de accuracy y matriz de confusion
+Interpretación de accuracy y matriz de confusion
 
 Validamos la eficacia del modelo
 
@@ -62,9 +62,9 @@ Se obtiene un 0.96 % general
 
 - Y solo el 1.89 % de nuestros datos obtuvieron un resultado mayor a lo esperado por el modelo
  
-  ![matriz](https://user-images.githubusercontent.com/98288000/151719683-74ab85eb-f4c0-4c0c-b5ac-6ea160a93020.PNG)
+![matriz](https://user-images.githubusercontent.com/98288000/151719683-74ab85eb-f4c0-4c0c-b5ac-6ea160a93020.PNG)
 
-Asi mismo el modelo nos permite saber cual es la importancia de cada una de las variables de entrenamiento, es decir, que factores nospermiten determinar mejor nuestro resultado
+Asi mismo el modelo nos permite saber cual es la importancia de cada una de las variables de entrenamiento, es decir, que factores nos permiten determinar mejor nuestro resultado
 ![importancia](https://user-images.githubusercontent.com/98288000/151720018-53abe74d-dc0b-4899-8010-3b6d67898840.PNG) 
       
 # Hipotesis - hallazgos
