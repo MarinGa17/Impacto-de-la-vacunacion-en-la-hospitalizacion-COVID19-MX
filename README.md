@@ -15,14 +15,14 @@ En este analisis, se han combinado datos sobre diferentes factores que impactan 
 
 # Fuentes
 - Se extraen el reporte sobre el progreso de vacunación COVID por medio de la API desde https://www.kaggle.com/covid-world-vaccination-progress
-- Desde el sitio https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico se obtiene
-  Registro diario de casos 
-  Factores de riesdo
+- Desde el sitio https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico se obtiene:
+  - Registro diario de casos 
+  - Factores de riesdo
   - Catalogos 
-    Genero
-    Edad
-    Tipo de paciente
-    Conmorbilidad
+    - Genero
+    - Edad
+    - Tipo de paciente
+    - Conmorbilidad
    
 
 # Base de datos
