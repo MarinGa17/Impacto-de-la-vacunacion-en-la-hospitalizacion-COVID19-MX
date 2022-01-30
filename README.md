@@ -28,7 +28,7 @@ En este analisis, se han combinado datos sobre diferentes factores que impactan 
 # Base de datos
 los datos son almacenados en una base SQL creada en  Google Cloud Platform https://cloud.google.com para su posterior consulta para el analisis
 
-![instancia]("https://user-images.githubusercontent.com/98288000/151711592-07272d69-0609-4238-89d4-57383036f0ac.PNG" width="324" height="324")
+![instancia](https://user-images.githubusercontent.com/98288000/151711592-07272d69-0609-4238-89d4-57383036f0ac.PNG)
 
 
 # Modelo utilizado - RandomForestClassifier
@@ -64,6 +64,21 @@ Se obtiene un 0.96 % general
  
   ![matriz](https://user-images.githubusercontent.com/98288000/151719683-74ab85eb-f4c0-4c0c-b5ac-6ea160a93020.PNG)
 
+Asi mismo el modelo nos permite saber cual es la importancia de cada una de las variables de entrenamiento, es decir, que factores nospermiten determinar mejor nuestro resultado
+![importancia](https://user-images.githubusercontent.com/98288000/151720018-53abe74d-dc0b-4899-8010-3b6d67898840.PNG)
 
-
-# hallazgos
+# Hipotesis - hallazgos
+  
+  Validacion de hipotesis
+ 
+  # Hipotesis
+- Impacto de los casos con conmorbilidades en el porcentaje de ocupación hospitalaria
+- La vacunación contra COVID-19 ha apoyado en la reducción de casos diarios detectados
+- La vacunación contra COVID-19 ha apoyado en la reducción del porcentaje de ocupación hospitalaria
+  
+  El analisis nos permite obtener una vista clara del comportamiento del % de hospitalización transcurridos los dias de vacunación 
+  
+  - La vacunación contra COVID-19 si ha tenido un imparto importante en la reducción de % de ocupación hospitalaria
+  - La vacunación contra COVID-19 no ayuda en la reducción de menos casos, incluso se observan picos en las ultimas fechas de vacunación
+  
+![vacunacion](https://user-images.githubusercontent.com/98288000/151720143-07b89056-6db7-4599-94fc-033aa3378c4f.PNG)
