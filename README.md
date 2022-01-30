@@ -1,4 +1,4 @@
-# Impacto de la vacunacion en la hospitalizacion COVID19-México
+# Impacto de la vacunación en la hospitalización COVID19-México
 
 
 En este analisis, se han combinado datos sobre diferentes factores que impactan el porcentaje de ocupación hospitalaria por COVID-19 en México, como diabetes, asma, obesidad, epoc y otras conmorbilidades, el numero de casos diarios registrados y el avance diario de vacunación. A partir del conjunto de datos, podemos recopilar información sobre los patrones que nos permiten identificar los factores de los dias con tasas de ocupación hospitalaria alta por COVID-19, permitiendonos ajustar un modelo de predicción que nos permite tener una mejor respuesta a futuro.
