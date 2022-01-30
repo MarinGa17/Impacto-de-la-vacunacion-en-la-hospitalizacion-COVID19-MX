@@ -4,13 +4,13 @@
 En este analisis, se han combinado datos sobre diferentes factores que ipactan el porcentaje de hospitalizacion por COVID-19 en México, como diabetes, asma, obesidad, epoc y otras conmorbilidades, el numero de casos diarios registrados y el avance diario de vacunación. A partir del conjunto de datos, podemos recopilar información sobre los patrones que siguen los dias con una tasa  de hopitalización alta y una tasa de recuperación más alta en el COVID-19, y ajustar nuestra propia dieta para tener una mejor respuesta o futuros virus.
 
 # Hipotesis
-- Impacto que tienen los casos con conmorbilidades en la ocupación hospitalaria
-- La vacunación contra COVID-19 a apoya en la reducción de casos diarios
-- La vacunación ha apoyado en la reducción del porcentaje de ocupación hospitalaria
+- Impacto de los casos con conmorbilidades en el porcentaje de ocupación hospitalaria
+- La vacunación contra COVID-19 ha apoyado en la reducción de casos diarios detectados
+- La vacunación contra COVID-19 ha apoyado en la reducción del porcentaje de ocupación hospitalaria
 
 
-# Objetiv
--Predecir el porcentaje de hospitalización diaria por COVID-19
+# Objetivo
+- Predecir el porcentaje de hospitalización diaria por COVID-19
 
 
 
