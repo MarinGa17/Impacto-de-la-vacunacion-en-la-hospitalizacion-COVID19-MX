@@ -48,7 +48,7 @@ y nuestros clases a predecir seran:
 - 2 - Nivel de ocupación hospitalaria alta
 - 3 - Nivel de ocupación hospitalaria muy alta
 
-<h6> Interpretación de resultados<h>
+Interpretación de resultados
   
   Interpretación de accuracy y matriz de confusion
 
@@ -65,7 +65,7 @@ Se obtiene un 0.96 % general
   ![matriz](https://user-images.githubusercontent.com/98288000/151719683-74ab85eb-f4c0-4c0c-b5ac-6ea160a93020.PNG)
 
 Asi mismo el modelo nos permite saber cual es la importancia de cada una de las variables de entrenamiento, es decir, que factores nospermiten determinar mejor nuestro resultado
-<img![importancia](https://user-images.githubusercontent.com/98288000/151720018-53abe74d-dc0b-4899-8010-3b6d67898840.PNG) width="10%"</img>
+![importancia](https://user-images.githubusercontent.com/98288000/151720018-53abe74d-dc0b-4899-8010-3b6d67898840.PNG) 
       
 # Hipotesis - hallazgos
   
