@@ -65,7 +65,7 @@ Se obtiene un 0.96 % general
   ![matriz](https://user-images.githubusercontent.com/98288000/151719683-74ab85eb-f4c0-4c0c-b5ac-6ea160a93020.PNG)
 
 Asi mismo el modelo nos permite saber cual es la importancia de cada una de las variables de entrenamiento, es decir, que factores nospermiten determinar mejor nuestro resultado
-<img width="10%"![importancia](https://user-images.githubusercontent.com/98288000/151720018-53abe74d-dc0b-4899-8010-3b6d67898840.PNG)</img>
+<img![importancia](https://user-images.githubusercontent.com/98288000/151720018-53abe74d-dc0b-4899-8010-3b6d67898840.PNG) width="10%"</img>
       
 # Hipotesis - hallazgos
   
