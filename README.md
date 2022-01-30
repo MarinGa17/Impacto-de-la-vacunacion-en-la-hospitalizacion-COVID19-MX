@@ -31,19 +31,19 @@ los datos son almacenados en una base SQL creada en  Google Cloud Platform https
 ![instancia](https://user-images.githubusercontent.com/98288000/151711592-07272d69-0609-4238-89d4-57383036f0ac.PNG)
 
 
-# Modelo utilizado
-Se construye dataset por consulta a base de datos SQL
+# Modelo utilizado - RandomForestClassifier
 
-Se realiza una exploración de los datos existentes
+Se utiliza un RandomForestClassifier ya que por las variables utilizadas nos permite evitar un sobreajustamiento del modelo y obtener una vista de  la importancia relativa de cada una de  las variables que utilizamos.
 
-
-![Set de datos](https://user-images.githubusercontent.com/98288000/151714381-3406d188-f1f1-47fe-9c00-a5186b241421.PNG)
-
-Se trabaja con las variables categoricas y se realiza transformación y limpieza de datos
-los datos son agrupados por dia para permitirno detectar los patrones entre ocupacion hospitalaria el tipo de casos diarios
-![set de dots](https://user-images.githubusercontent.com/98288000/151714862-e001330c-42a6-49eb-aacb-ee910f81779e.PNG)
+- Set de entrenamiento
+![Captura](https://user-images.githubusercontent.com/98288000/151719457-1e8b1d33-704f-4759-8e17-ac139f4c0b94.PNG)
 
 
-<h5> Random forest classificar <h>
+Donde nuestra variable Y a predecir sera el porcentaje de ocupación hospitalaria diaria
+
+<h6> Interpretación de resultados<h>
+ 
+  
+
 
 # hallazgos
