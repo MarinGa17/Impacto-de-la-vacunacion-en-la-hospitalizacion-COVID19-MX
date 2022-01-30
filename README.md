@@ -66,7 +66,7 @@ Se obtiene un 0.96 % general
 
 Asi mismo el modelo nos permite saber cual es la importancia de cada una de las variables de entrenamiento, es decir, que factores nospermiten determinar mejor nuestro resultado
 ![importancia](https://user-images.githubusercontent.com/98288000/151720018-53abe74d-dc0b-4899-8010-3b6d67898840.PNG)
-
+<img src="![importancia](https://user-images.githubusercontent.com/98288000/151720018-53abe74d-dc0b-4899-8010-3b6d67898840.PNG" alt="Your image title" width="250"/>
 # Hipotesis - hallazgos
   
   Validacion de hipotesis
