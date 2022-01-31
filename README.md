@@ -81,4 +81,8 @@ Asi mismo el modelo nos permite saber cual es la importancia de cada una de las 
   - La vacunación contra COVID-19 si ha tenido un imparto importante en la reducción de % de ocupación hospitalaria
   - La vacunación contra COVID-19 no ayuda en la reducción de menos casos, incluso se observan picos en las ultimas fechas de vacunación
   
-![vacunacion](https://user-images.githubusercontent.com/98288000/151720143-07b89056-6db7-4599-94fc-033aa3378c4f.PNG)
+![image](https://user-images.githubusercontent.com/98288000/151758863-01124971-f19a-4e3d-8650-4bb55ff7d78d.png)
+![image](https://user-images.githubusercontent.com/98288000/151758983-f0b166c3-b17a-4fcf-815d-60ec80474638.png)
+
+- Los casos de conmorbilidad afectan el % de acupacion hospitalaria
+![image](https://user-images.githubusercontent.com/98288000/151760309-384968fa-190b-4ebd-9a45-cc631a47fd5b.png)
